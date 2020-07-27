@@ -4,7 +4,7 @@ bluetooth: {spec: '5', profiles: [A2DP + aptX HD]}
 cameras:
 - {flash: 'LED', info: '19 MP'}
 - {flash: '', info: '5 MP'}
-codename: xz2c
+codename: apollo
 cpu: Kryo 385
 cpu_cores: '8'
 cpu_freq: 4 x 2.7 GHz + 4 x 1.7 GHz
@@ -30,7 +30,7 @@ screen_res: 1080x2160
 screen_tech: IPS LCD
 sdcard: up to 256 GB (hybrid SIM slot)
 soc: Qualcomm SDM845 Snapdragon 845
-storage: 64/128/256 GB UFS2.1
+storage: 64 GB UFS2.1
 tree: android_device_sony_xz2c
 type: phone
 vendor: Sony
